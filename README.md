@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Marshall-21
-- 👀 I’m interested in Web development, Python, Ethical hacking and AI.
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Marshall, Founder/CEO Silverlight Technologies
+- 👀 I’m a fullstack developer specialized in web3 and blockchain development.
+- 🌱 I’m currently learning Javascript :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
